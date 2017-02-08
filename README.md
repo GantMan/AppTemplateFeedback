@@ -29,13 +29,13 @@ Another purpose of this app is to define best practices such as the folder struc
 
 # How to give feedback
 
-We need your feedback. Do you have a lot of experience building React Native apps? If so, please read the [code of the template](https://github.com/facebook/react-native/tree/master/local-cli/templates/HelloNavigation) and if you think something should be done differently, use issues in this repo to discuss what should be done differently.
+We need your feedback. Do you have a lot of experience building React Native apps? If so, please read the [code of the template](https://github.com/facebook/react-native/tree/master/local-cli/templates/HelloNavigation) and use issues on this repo to discuss best practices.
 
-IMPORTANT: Please don't report bugs directly on this repo.
+IMPORTANT: **Please only discuss best practices here, do not report bugs on this repo.**
 
-If you see issues with navigation (transitions between screens, tabs, headers, drawer), report them on the [react-community/react-navigation](https://github.com/react-community/react-navigation) repo.
+- If you see issues with navigation (transitions between screens, tabs, headers, drawer), report them on the [react-community/react-navigation](https://github.com/react-community/react-navigation) repo.
 
-If you see general issues with React Native, report them on the [react-native](https://github.com/facebook/react-native) repo.
+- If you see general issues with React Native, report them on the [react-native](https://github.com/facebook/react-native) repo.
 
 ## How to run the template locally
 
