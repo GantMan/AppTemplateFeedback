@@ -48,6 +48,12 @@ $ react-native run-ios
 
 # FAQ
 
+## Why is the template using the react-navigation library?
+
+The new [react-navigation](reactnavigation.com) library builds on the lessons learned from building the stock Navigator, NavigationExperimental and ExNavigation by Exponent, and is meant to replace all of these libraries.
+
+There are multiple navigation libraries out there and that's OK. This template uses react-navigation but it is likely people will create more templates in the future, and some of those will use [Wix Navigation](https://github.com/wix/react-native-navigation) (to achieve native gestures and animations) or other libraries in the templates.
+
 ## Why is the template not using Redux?
 
 This template intentionally doesn't use Redux. After discussing with a few people who have experience using Redux we concluded that adding Redux to this app targeted at beginners would make the code more confusing, and wouldn't clearly show the benefits of Redux (because the app is too small). There are already a few concepts to grasp - the React component lifecycle, rendeing lists, using async / await, handling the software keyboard. We thought that's the maximum amount of things to learn at once. It's better for everyone to see patterns in their codebase as the app grows and decide for themselves whether and when they need Redux. See also the post [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.f3q7kq4b3) by [Dan Abramov](https://twitter.com/dan_abramov).
