@@ -61,3 +61,7 @@ This template intentionally doesn't use Redux. After discussing with a few peopl
 ## Why is the template not using Flow (for now)?
 
 Many people are new to React Native, some are new to ES6 and most people will be new to Flow. Therefore we didn't want to introduce all these concepts all at once in a single codebase. However, it might make sense to later introduce a separate version of this template that uses Flow annotations.
+
+## How is this different from Ignite
+
+[Ignite](https://github.com/infinitered/ignite) is much more opinionated in how your app should be built and adds several libs to your application by default. The templates for 'react-native init' are much less opinionated. But with the upcoming support for using templates directly from npm, it will be possible for anyone to provide more opinionated templates.
