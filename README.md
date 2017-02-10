@@ -64,4 +64,4 @@ Many people are new to React Native, some are new to ES6 and most people will be
 
 ## How is this different from Ignite?
 
-[Ignite](https://github.com/infinitered/ignite) is much more opinionated in how your app should be built and adds several libs to your application by default. The templates for 'react-native init' are much less opinionated. But with the upcoming support for using templates directly from npm, it will be possible for anyone to provide more opinionated templates.
+[Ignite](https://github.com/infinitered/ignite) is much more opinionated in how your app should be built and adds several libs to your application by default even though your app might not be using them. The templates for 'react-native init' are much less opinionated - no Redux by default for example (see above). But with the upcoming support for using templates directly from npm, it will be possible for anyone to provide more opinionated templates for 'react-native init'.
